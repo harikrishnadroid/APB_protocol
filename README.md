@@ -180,10 +180,10 @@ for design:https://www.edaplayground.com/x/QzWt
 
 ```text
 APB-to-BRAM/
-├── top.v
-├── apb.v
-├── bram.v
-├── tb.v
+├── top_module.sv
+├── APB_master.sv
+├── bram_slave.sv
+├── testbench.sv
 ├── top.vcd
 └── README.md
 ```
