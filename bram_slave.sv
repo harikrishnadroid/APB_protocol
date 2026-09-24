@@ -1,5 +1,6 @@
 // BRAM slave
-
+//this is my APB slave 
+//I just used this BRAM for storing the data temporarily 
 
 
 module bram(
