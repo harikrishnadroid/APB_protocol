@@ -172,7 +172,7 @@ vcs -full64 tb.v top.v -debug_access+all -o simv
 xrun tb.v top.v -access +rwc
 ```
 
-##**EDA playground link:
+##**EDA playground link**:
 for design:https://www.edaplayground.com/x/QzWt
 
 
