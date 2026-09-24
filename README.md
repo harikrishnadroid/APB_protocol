@@ -184,7 +184,6 @@ APB-to-BRAM/
 ├── APB_master.sv
 ├── bram_slave.sv
 ├── testbench.sv
-├── top.vcd
 └── README.md
 ```
 
